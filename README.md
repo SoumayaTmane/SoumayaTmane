@@ -5,7 +5,7 @@
   
 - 🚀 Recent Projects: **[Multimodal Video Analysis ](https://github.com/SoumayaTmane/Multimodal-Video-Analysis)**, **[Property Recommendation System](https://github.com/SoumayaTmane/Property_Recommendation_System)**
 
-- 🏗️ Favorite Project Demo: **[Demo](https://www.youtube.com/watch?v=YSDhHZBOi-c)**
+- 🏗️ Favorite Project Demo: **[Demo](https://www.youtube.com/watch?v=EXme4NksdTM&feature=youtu.be)**
 
 - 📫 How to reach me **soumayatmane@gmail.com**
 
