@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumaya</h1>
 <h3 align="center"> An Aspiring Software Engineer/ Data Scientist🛠️</h3>
 
-- 🌱 I’m currently learning **SQL, PowerBI**
+- 🌱 I’m currently further learning **SQL, Java**
   
 - 🚀 Recent Projects: **[Multimodal Video Analysis ](https://github.com/SoumayaTmane/Multimodal-Video-Analysis)**, **[Property Recommendation System](https://github.com/SoumayaTmane/Property_Recommendation_System)**
 
